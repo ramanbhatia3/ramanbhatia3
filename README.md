@@ -1,10 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Ramandeep Bhatia!</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramanbhatia3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <div>
+    <img src="./avatar.png" width="220">
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=ramanbhatia3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </div>
 </div>
-
-
 
 <div align="center"><b>Full Stack Web Developer</b></div>
 
@@ -33,6 +36,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -44,6 +49,22 @@
 
 ---
 
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanbhatia3&theme=radical" height="250" alt="activity-graph graph" />
+</div>
+
+---
+
 <div align="center">
   <h3>Thanks for stopping by! 😊</h3>
+  <i>⭐If you like my profile, don’t forget to star my repositories!⭐</i>  
+</div>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"
+    alt="Footer Wave"
+    style="max-width: 100%; height: auto;"
+  />
 </div>
