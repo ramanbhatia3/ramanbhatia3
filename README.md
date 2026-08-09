@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=140&section=header&text=Ramandeep%20Bhatia&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Wave" style="max-width: 100%; height: auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=200&section=header&text=Ramandeep%20Bhatia&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Wave" style="max-width: 100%; height: auto;" />
 </div>
 
 <br>
@@ -20,9 +20,15 @@
 </p>
 
 <div align="center">
-  <code><a href="https://www.linkedin.com/in/ramandeep-bhatia-78b792287/" target="_blank">⚡ LinkedIn</a></code> •
-  <code><a href="mailto:bhatia3r@gmail.com">📬 Email Me</a></code> •
-  <code><a href="https://ramanbhatiadev.vercel.app/" target="_blank">🌐 Portfolio</a></code>
+  <a href="https://www.linkedin.com/in/ramandeep-bhatia-78b792287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhatia3r@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-00f0ff?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <a href="https://ramanbhatiadev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
@@ -37,38 +43,21 @@
 - ⚡ **Core Arsenal:** Specializing in Full-Stack development *(React.js, Node.js, Express.js, MongoDB, Tailwind CSS)*.
 - 🤝 **Let's Connect:** Open for software engineering roles, hackathon teams, and innovative open-source projects.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
 ## 💻 Tech Stack & Tools
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E&border=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=EAB308)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00f0ff)
-![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=F97316)
+**Languages:** &nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=EAB308) ![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00f0ff) ![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=F97316)<br><br>
+**Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React.js-0a0a0a?style=for-the-badge&logo=react&logoColor=00f0ff) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8) ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)<br><br>
+**Backend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=22c55e) ![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff) ![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=d946ef)<br><br>
+**Databases:** &nbsp;&nbsp;&nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=22c55e) ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=3B82F6)<br><br>
+**Tools:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff) ![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff) ![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=46E3B7)
 
-### **Frontend**
-![React](https://img.shields.io/badge/React.js-0a0a0a?style=for-the-badge&logo=react&logoColor=00f0ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=22c55e)
-![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=d946ef)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=22c55e)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=3B82F6)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=46E3B7)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
 ## 🏆 Hackathon Wins & Achievements
 
@@ -78,12 +67,10 @@
 | **Zonals Snap Syntax** <br> <sub>*Rayat Bahra Professional University*</sub> | Secured **2nd Position** in the campus qualifiers organized by IIT Roorkee representatives; won a fully-sponsored invite to Cognizance 2026. | ![WINNER](https://img.shields.io/badge/🏆_WINNER-EAB308?style=for-the-badge&labelColor=0a0a0a) | **2026** |
 | **Full Stack Web Dev Hackathon** <br> <sub>*Rayat Bahra Professional University*</sub> | Secured **2nd Position** overall by engineering and pitching **'CityCare'**, a full-stack civic issue reporting platform. | ![RUNNER UP](https://img.shields.io/badge/🚀_RUNNER_UP-A855F7?style=for-the-badge&labelColor=0a0a0a) | **2025** |
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
----
 
 ## ⚡ GitHub Contributions & Streak
 
